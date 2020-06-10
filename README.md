@@ -1,6 +1,6 @@
 # sm64redrawn
 
-![Screenshot](redrawn.png)
+![Screenshot](screenshot.png)
 
 
 
