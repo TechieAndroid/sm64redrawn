@@ -16,7 +16,7 @@ This is the result of many hours of manual work drawing these textures at 10x sc
 
 Please give credit to this pack if you plan to use it in a video or other form of social media, you can also link to it here. Thank you :)
 
-If you're interested in the project and would like to join us -> https://discord.gg/tTDdrcd
+If you're interested and would like to help out, check out our Discord server! -> https://discord.gg/tTDdrcd
 
 
 
