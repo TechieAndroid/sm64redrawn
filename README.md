@@ -14,7 +14,9 @@
 
 This is the result of many hours of manual work drawing these textures at 10x scale or higher.
 
-Please give credit to this pack if you plan to use it in a video or other form of social media, you can also link to it here. Thank you :)
+Remember to give credit to this pack if you plan to use it in a video or other form of social media, you can also link to it here. Thank you :)
+
+Do not redistribute this pack without explicit permission.
 
 If you're interested and would like to help out, check out our Discord server! -> https://discord.gg/tTDdrcd
 
