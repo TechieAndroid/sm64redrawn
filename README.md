@@ -18,7 +18,7 @@ Remember to give credit to this pack if you plan to use it in a video or other f
 
 Do not redistribute this pack without explicit permission.
 
-If you're interested and would like to help out, check out our Discord server! -> https://discord.gg/tTDdrcd
+If you're interested and would like to help out, check out our Discord server! -> https://discord.gg/2gGFd7t
 
 
 
