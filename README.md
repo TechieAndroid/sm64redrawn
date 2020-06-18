@@ -10,7 +10,7 @@
 
 ### Contributors
 
-**Myself, cazsu, CyberCat, garrit[jkl], Mazeo, Ray, roovahlees, Specialfred453, Teaufou**
+**Myself, cazsu, CyberCat, garrit[jkl], Mazeo, Ray, roovahlees, Specialfred453, Teaufou, The Chain Smoker**
 
 This is the result of many hours of manual work drawing these textures at 10x scale or higher.
 
