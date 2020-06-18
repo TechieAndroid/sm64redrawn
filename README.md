@@ -4,7 +4,7 @@
 
 
 
-## This is a collection of textures that have been redrawn for the Super Mario 64 PC port.
+## This is a collection of textures that have been redrawn for the Super Mario 64 port.
 
 
 
