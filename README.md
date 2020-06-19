@@ -34,7 +34,7 @@ If asked to write into subdirectories and overwrite files hit yes. This way you'
 
 This is a basic guide and if you need more information you should look at the readme here -> https://github.com/sm64pc/sm64pc/tree/nightly
 
-`git clone -o nightly https://github.com/sm64pc/sm64pc.git`
+`git clone -b nightly https://github.com/sm64pc/sm64pc.git`
 
 `make NODRAWINGDISTANCE=1 TEXTURE_FIX=1 EXTERNAL_DATA=1`
 
