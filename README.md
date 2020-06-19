@@ -24,6 +24,18 @@ If you're interested and would like to help out, check out our Discord server! -
 
 ### Installation
 
+If you need help compiling the source I've added the insructions below.
+
 Extract the zip file and copy it's contents into the `res` directory inside your `build` directory.
 
 If asked to write into subdirectories and overwrite files hit yes. This way you'll get all the textures that have been redrawn, while leaving the originals that haven't been redrawn yet intact.
+
+### Source Compilation
+
+This is a basic guide and if you need more information you should look at the readme here -> https://github.com/sm64pc/sm64pc/tree/nightly
+
+`git clone -o nightly https://github.com/sm64pc/sm64pc.git`
+
+`make NODRAWINGDISTANCE=1 TEXTURE_FIX=1 EXTERNAL_DATA=1`
+
+Add the flag `BETTERCAMERA=1` when building if you want more freedom with your camera.
