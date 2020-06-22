@@ -26,7 +26,7 @@ If you're interested and would like to help out, check out our Discord server! -
 
 If you need help compiling the source I've added the insructions below.
 
-(Release ZIP)
+<b>(Release ZIP)</b>
 Extract the zip file and copy it's contents into the `res` directory inside your `build` directory.
 
 If asked to write into subdirectories and overwrite files hit yes. This way you'll get all the textures that have been redrawn, while leaving the originals that haven't been redrawn yet intact.
@@ -43,7 +43,7 @@ If you're using the latest nightly version you'll need to have a `gfx` directory
              ┣ levels
              ┗ textures</pre>
 
-(Master Clone)
+<b>(Master Clone)</b>
 If you git clone the master you can just copy the `gfx` folder into your `res` directory and that's it.
 
 ### sm64ex Source Compilation
