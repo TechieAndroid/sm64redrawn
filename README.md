@@ -36,12 +36,12 @@ If you're using the latest nightly version you'll need to have a `gfx` directory
 
 
 <pre>sm64ex
-   L build
-       L res
-          L gfx
-             L actors
-             L levels
-             L textures</pre>
+   ┗ build
+       ┗ res
+          ┗ gfx
+             ┣ actors
+             ┣ levels
+             ┗ textures</pre>
 
 (Master Clone)
 If you git clone the master you can just copy the `gfx` folder into your `res` directory and that's it.
