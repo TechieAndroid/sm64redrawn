@@ -34,13 +34,14 @@ If asked to write into subdirectories and overwrite files hit yes. This way you'
 NOTE:
 If you're using the latest nightly version you'll need to have a `gfx` directory inside of your `res` directory. The actors, levels, and textures folders go in the `gfx` directory. It should look like this:
 
-sm64ex<br />
-L build<br />
-L res<br />
-L gfx<br />
-L actors<br />
-L levels<br />
-L textures<br />
+
+<pre>sm64ex
+   L build
+       L res
+          L gfx
+             L actors
+             L levels
+             L textures</pre>
 
 (Master Clone)
 If you git clone the master you can just copy the `gfx` folder into your `res` directory and that's it.
