@@ -48,7 +48,7 @@ If you git clone the master you can just copy the `gfx` folder into your `res` d
 
 ### sm64ex Source Compilation
 
-This is a basic refernce. It doesn't list the dependicies you'll need or specific methods you may need to use depending on your OS. If you need more information you should look at the readme here -> https://github.com/sm64pc/sm64ex/tree/nightly
+This is a basic reference. It doesn't list the dependicies you'll need or specific methods you may need to use depending on your OS. If you need more information you should look at the readme here -> https://github.com/sm64pc/sm64ex/tree/nightly
 
 If you've got you dependicies and everything is setup you should be able to just run these two commands. I tested this in Arch Linux but YMMV.
 
