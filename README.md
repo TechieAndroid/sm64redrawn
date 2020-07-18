@@ -10,7 +10,7 @@
 
 ### Contributors
 
-**cazsu, connie, CyberCat, Devector, garrit[jkl], granvillimus, Map, Marshivolt, Mazeo, Natalie, Ray, roovahlees, Specialfred453, Teaufou, The Chain Smoker, TheExpectedKnight**
+**cazsu, connie, CyberCat, Devector, garrit[jkl], granvillimus, Map, Marshivolt, Mazeo, Natalie, Ray, Recompiler, roovahlees, Specialfred453, Teaufou, The Chain Smoker, TheExpectedKnight**
 
 This is the result of many hours of manual work drawing these textures at 10x scale or higher.
 
@@ -37,11 +37,12 @@ If you're using the latest nightly version you'll need to have a `gfx` directory
 
 <pre>sm64ex
    ┗ build
-       ┗ res
-          ┗ gfx
-             ┣ actors
-             ┣ levels
-             ┗ textures</pre>
+       ┗ us_pc
+           ┗ res
+              ┗ gfx
+                 ┣ actors
+                 ┣ levels
+                 ┗ textures</pre>
 
 <b>(Master Clone)</b>
 If you git clone the master you can just copy the `gfx` folder into your `res` directory and that's it.
