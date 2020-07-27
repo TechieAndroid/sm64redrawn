@@ -47,6 +47,10 @@ If you're using the latest nightly version you'll need to have a `gfx` directory
 <b>(Master Clone)</b>
 If you git clone the master you can just copy the `gfx` folder into your `res` directory and that's it.
 
+### sm64nx pak file
+
+https://drive.google.com/drive/folders/1E-iKcAie5adAF-RsXOjTSvWJku_n6SZn?usp=sharing
+
 ### sm64ex Source Compilation
 
 This is a basic reference. It doesn't list the dependicies you'll need or specific methods you may need to use depending on your OS. If you need more information you should look at the readme here -> https://github.com/sm64pc/sm64ex/tree/nightly
