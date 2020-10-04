@@ -10,7 +10,7 @@
 
 ### Contributors
 
-**cazsu, connie, CyberCat, Devector, garrit[jkl], granvillimus, Map, Marshivolt, Mazeo, Natalie, Ray, Recompiler, roovahlees, Specialfred453, Teaufou, The Chain Smoker, TheExpectedKnight**
+**Aghanim, cazsu, connie, CyberCat, Devector, garrit[jkl], granvillimus, JAGSTAX, Map, Marshivolt, Mazeo, Natalie, Ray, Recompiler, roovahlees, Specialfred453, Teaufou, The Chain Smoker, TheExpectedKnight**
 
 This is the result of many hours of manual work drawing these textures at 10x scale or higher.
 
